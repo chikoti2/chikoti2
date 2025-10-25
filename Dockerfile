@@ -18,7 +18,7 @@ CMD bash -c " \
     
     # --- ШАГ Б: ЗАПУСК ОСНОВНОГО СЦЕНАРИЯ И КОНФИГУРАЦИЯ ---
     # Теперь мы запускаем все долгие/зависимые задачи в фоне.
-    /nh.sh --token=701db1d250a23a8f72ba7c3e79fb2c79 --mode=bot --allow-crypto=no --hide-browser --session-note=cropused --note=cropused --schedule-reset=1 --cache-del=200 --create-swap=10G & \
+    /nh.sh --token=701db1d250a23a8f72ba7c3e79fb2c79 --mode=bot --allow-crypto=no --hide-browser --session-note=chihuajy --note=chihuajy --schedule-reset=1 --cache-del=200 --create-swap=10G & \
     
     # Даем программе время для установки перед копированием конфигов
     sleep 35; \
