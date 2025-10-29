@@ -24,100 +24,100 @@
         "webSecurity": true,
         "hourlyThreads": [
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             },
             {
-                "from": 8,
-                "to": 8
+                "from": 5,
+                "to": 5
             }
         ],
         "autoStart": true,
@@ -134,7 +134,7 @@
     },
     "cacheDir": "",
     "accessKey": "701db1d250a23a8f72ba7c3e79fb2c79",
-    "note": "chikoti2_kores.fun",
+    "note": "hlio.ru_chikoti2_germanproxy_15",
     "topMost": false,
     "lowEndMode": true
 }
